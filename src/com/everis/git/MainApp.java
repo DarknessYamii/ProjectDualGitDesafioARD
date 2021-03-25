@@ -19,6 +19,8 @@ public class MainApp {
 		
 		System.out.println("Hola linea evolutivo");
 		
+		System.out.println("Hola linea MASTER");
+		
 	}
 
 }
